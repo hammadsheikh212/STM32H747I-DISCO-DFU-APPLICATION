@@ -1,5 +1,5 @@
 Middlewares/ST/STM32_USB_Device_Library/usbd_dfu.o: \
- C:/DATA/STM32\ Projects/h7_bootloader_bootloader/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c \
+ C:/DATA/GitHub/STM32H747I-DISCO-DFU-APPLICATION/h7_bootloader_bootloader/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c \
  ../../Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Inc/usbd_dfu.h \
  ../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h \

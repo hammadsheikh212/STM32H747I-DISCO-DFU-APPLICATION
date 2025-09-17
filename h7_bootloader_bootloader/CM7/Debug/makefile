@@ -69,8 +69,8 @@ all: main-build
 main-build: h7_bootloader_bootloader_CM7.elf secondary-outputs
 
 # Tool invocations
-h7_bootloader_bootloader_CM7.elf h7_bootloader_bootloader_CM7.map: $(OBJS) $(USER_OBJS) C:\DATA\STM32\ Projects\h7_bootloader_bootloader\CM7\STM32H747XIHX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "h7_bootloader_bootloader_CM7.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\DATA\STM32 Projects\h7_bootloader_bootloader\CM7\STM32H747XIHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="h7_bootloader_bootloader_CM7.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+h7_bootloader_bootloader_CM7.elf h7_bootloader_bootloader_CM7.map: $(OBJS) $(USER_OBJS) C:\DATA\GitHub\STM32H747I-DISCO-DFU-APPLICATION\h7_bootloader_bootloader\CM7\STM32H747XIHX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "h7_bootloader_bootloader_CM7.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\DATA\GitHub\STM32H747I-DISCO-DFU-APPLICATION\h7_bootloader_bootloader\CM7\STM32H747XIHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="h7_bootloader_bootloader_CM7.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

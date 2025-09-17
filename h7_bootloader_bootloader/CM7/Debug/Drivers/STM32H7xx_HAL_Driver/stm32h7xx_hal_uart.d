@@ -1,5 +1,5 @@
 Drivers/STM32H7xx_HAL_Driver/stm32h7xx_hal_uart.o: \
- C:/DATA/STM32\ Projects/h7_bootloader_bootloader/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c \
+ C:/DATA/GitHub/STM32H747I-DISCO-DFU-APPLICATION/h7_bootloader_bootloader/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h \
  ../Core/Inc/stm32h7xx_hal_conf.h \
  ../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_rcc.h \

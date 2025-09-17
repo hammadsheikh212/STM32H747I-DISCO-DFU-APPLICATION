@@ -1,5 +1,5 @@
 Common/Src/system_stm32h7xx_dualcore_boot_cm4_cm7.o: \
- C:/DATA/STM32\ Projects/h7_bootloader_bootloader/Common/Src/system_stm32h7xx_dualcore_boot_cm4_cm7.c \
+ C:/DATA/GitHub/STM32H747I-DISCO-DFU-APPLICATION/h7_bootloader_bootloader/Common/Src/system_stm32h7xx_dualcore_boot_cm4_cm7.c \
  ../../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h7xx.h \
  ../../Drivers/CMSIS/Device/ST/STM32H7xx/Include/stm32h747xx.h \
  ../../Drivers/CMSIS/Include/core_cm7.h \
