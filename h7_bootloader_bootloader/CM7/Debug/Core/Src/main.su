@@ -1,0 +1,13 @@
+../Core/Src/main.c:691:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:730:10:calculate_crc32	16	static
+../Core/Src/main.c:776:6:search_crc_value	8	static
+../Core/Src/main.c:801:6:search_end_address	16	static
+../Core/Src/main.c:862:6:print_string	16	static
+../Core/Src/main.c:878:19:erase_flash_sectors	32	static
+../Core/Src/main.c:908:19:program_flash	24	static
+../Core/Src/main.c:1079:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:643:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:612:13:MX_CRC_Init	8	static
+../Core/Src/main.c:522:6:SystemClock_Config	120	static
+../Core/Src/main.c:585:6:PeriphCommonClock_Config	208	static
+../Core/Src/main.c:124:5:main	16	static,ignoring_inline_asm

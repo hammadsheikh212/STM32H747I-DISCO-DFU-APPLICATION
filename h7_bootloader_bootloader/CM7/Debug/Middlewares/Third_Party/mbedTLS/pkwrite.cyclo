@@ -1,0 +1,8 @@
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:71:12:pk_write_rsa_pubkey	8
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:110:12:pk_write_ec_pubkey	4
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:138:12:pk_write_ec_param	2
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:155:5:mbedtls_pk_write_pubkey	3
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:181:5:mbedtls_pk_write_pubkey_der	12
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:234:5:mbedtls_pk_write_key_der	37
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:478:5:mbedtls_pk_write_pubkey_pem	2
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/pkwrite.c:503:5:mbedtls_pk_write_key_pem	4

@@ -1,0 +1,3 @@
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/base64.c:77:5:mbedtls_base64_encode	9
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/base64.c:144:5:mbedtls_base64_decode	25
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/base64.c:251:5:mbedtls_base64_self_test	10

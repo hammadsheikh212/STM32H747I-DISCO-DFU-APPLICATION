@@ -1,0 +1,7 @@
+../Core/Src/usbd_dfu_flash.c:58:10:Flash_If_Init	1
+../Core/Src/usbd_dfu_flash.c:70:10:Flash_If_DeInit	1
+../Core/Src/usbd_dfu_flash.c:82:10:Flash_If_Erase	3
+../Core/Src/usbd_dfu_flash.c:117:10:Flash_If_Write	5
+../Core/Src/usbd_dfu_flash.c:154:10:Flash_If_Read	2
+../Core/Src/usbd_dfu_flash.c:173:10:Flash_If_GetStatus	2
+../Core/Src/usbd_dfu_flash.c:198:17:GetSector	33

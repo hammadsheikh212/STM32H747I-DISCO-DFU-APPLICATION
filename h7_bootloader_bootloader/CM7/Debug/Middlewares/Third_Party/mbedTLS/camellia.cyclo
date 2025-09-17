@@ -1,0 +1,10 @@
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:303:13:camellia_feistel	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:328:6:mbedtls_camellia_init	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:334:6:mbedtls_camellia_free	2
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:345:5:mbedtls_camellia_setkey_enc	33
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:454:5:mbedtls_camellia_setkey_dec	3
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:505:5:mbedtls_camellia_crypt_ecb	3
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:573:5:mbedtls_camellia_crypt_cbc	7
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:633:5:mbedtls_camellia_crypt_cfb128	7
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:692:5:mbedtls_camellia_crypt_ctr	6
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/camellia.c:936:5:mbedtls_camellia_self_test	30

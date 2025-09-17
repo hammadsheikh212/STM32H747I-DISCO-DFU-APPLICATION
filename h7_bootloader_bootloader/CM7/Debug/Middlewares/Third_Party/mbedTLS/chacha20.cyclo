@@ -1,0 +1,10 @@
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:91:20:chacha20_quarter_round	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:126:13:chacha20_inner_block	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:145:13:chacha20_block	4
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:188:6:mbedtls_chacha20_init	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:199:6:mbedtls_chacha20_free	2
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:207:5:mbedtls_chacha20_setkey	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:232:5:mbedtls_chacha20_starts	1
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:255:5:mbedtls_chacha20_update	7
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:320:5:mbedtls_chacha20_crypt	3
+C:/DATA/STM32 Projects/h7_bootloader_bootloader/Middlewares/Third_Party/mbedTLS/library/chacha20.c:535:5:mbedtls_chacha20_self_test	9
